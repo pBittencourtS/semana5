@@ -5,8 +5,13 @@ p{
 }
 
 
-h1{
+h2, h3, h4{
     background-color: #ECEFCA;
+}
+
+h1{
+    background-color: #213448;
+    color: white;
 }
 
 body{
