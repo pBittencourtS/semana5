@@ -5,7 +5,5 @@ p{
 }
 
 body{
-    background-color: #ECEFCA;
-    width: 65%;
-    margin: 0 auto; 
+    background-image: url(image.png);
 }
