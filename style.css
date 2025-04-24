@@ -6,5 +6,6 @@ p{
 
 body{
     background-color: #ECEFCA;
-    max-width: 70%;
+    width: 65%;
+    margin: 0 auto; 
 }
