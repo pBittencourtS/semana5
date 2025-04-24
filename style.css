@@ -4,11 +4,11 @@ p{
     background-color: #94B4C1;
 }
 
-/* body{
-    background-image: url("image.png");
-} */
 
 h1{
     background-color: #ECEFCA;
 }
 
+body{
+    background-image: url("image.png");
+}
